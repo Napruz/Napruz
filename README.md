@@ -67,10 +67,6 @@
     <p>Stack: JavaScript ES6, OOP, MVP, REST API, ServiceWorkers, WebPack</p>
   </li>
 
-  <!--<li><a href="https://ramiljs.github.io/kekstagram/#">Kekstagram. </a> App <a href="https://github.com/RamilJS/kekstagram">GitRepo</a>
-    <p>Kekstagram is a social network for sharing photos. You can upload your photo, apply various filters on it and publish your photo.</p>
-    <p>Stack: JavaScript ES6, WebPack, CSS3, HTML5</p>
-  </li>-->
   
 </ul>
 
@@ -79,10 +75,6 @@
   <li>LAWYER SPECIALIST (2014-2019)
     <p>"Administrative Law" in Kuban State University</p>
   </li>
-  <li>
-    JavaScript Developer (2022-2023) 
-    <p>Profession JavaScript Developer in <a href="https://htmlacademy.ru/profile/ramil-veliev">HTML Academy</a></p>
-    <p><a href="https://htmlacademy.ru/profile/ramil-veliev/certificates">JavaScript learning source (Certificates):</a> JS.Professional Development of Web Interfaces, JS.Architecture of Front-end Applications, React.Development of Complex Front-end Applications, </p>
-  </li>
+  
 </ul>
 
