@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ramil-veliev/" target="_blank">Ramil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="auto" height="32"/></h1>
 
@@ -55,16 +56,17 @@
 
 <h3>Pet-Projects</h3>
 <ul>
-  
+  -->
+  <!--
   <li><a href="https://six-cities-book.vercel.app/">Six cities book. </a>React App <!-- <a href="https://github.com/RamilJS/six-cities-book"> --> GitRepo </a>
     <p>Six Cities is a service for travelers . Choose one of the six popular cities to travel to and get an up-to-date list of rental offers. Detailed information about housing, the display of the object on the map, as well as the concise interface of the service will help you quickly choose the best offer.</p>
-    <p>Stack: React, Redux Toolkit, JavaScript ES6, Axios, Vitest, Leaflet</p>
-  </li>
+    <p>Stack: React, Redux Toolkit, JavaScript ES6, Axios, Vitest, Leaflet</p> -->
+   <!-- </li>
 
   <li><a href="https://ramiljs.github.io/big-trip/">Big Trip. </a>SPA <!-- <a href="https://github.com/RamilJS/big-trip">GitRepo</a> -->
     <p>The SPA service helps to plan a detailed trip route, calculate the cost of travel and get information about attractions. SPA project was performed without any framework. It represents MVP architecture with OOP principles and offline mode through service workers.</p>
-    <p>Stack: JavaScript ES6, OOP, MVP, REST API, ServiceWorkers, WebPack</p>
-  </li>
+    <p>Stack: JavaScript ES6, OOP, MVP, REST API, ServiceWorkers, WebPack</p> -->
+  <!-- </li>
 
   
 </ul>
@@ -77,3 +79,4 @@
   
 </ul>
 
+-->
