@@ -72,8 +72,8 @@
 
 <h3>Education</h3>
 <ul>
-  <li>LAWYER SPECIALIST (2014-2019)
-    <p>"Administrative Law" in Kuban State University</p>
+  <li>Kuban State University (2014-2019)
+    <p>specialist</p>
   </li>
   
 </ul>
