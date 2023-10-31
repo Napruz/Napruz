@@ -6,7 +6,6 @@
 <h2>Contact me</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/ramil-veliev/">Linkedin</a></li>
-  <li><a href="https://www.facebook.com/profile.php?id=100087110756026">Facebook</a></li>
   <li><a href="https://t.me/napruzjs">Telegram</a></li>
 </ul>
 
